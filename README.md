@@ -7,7 +7,12 @@ Deliverables:
 
 ## Date -  Milestone
 
-20/09/18 - 30% course
+20/09/18 - 30% course 
+
 27/09/18 - 60% course
+
 04/10/18 - 80% course
+
 11/10/18 - 100% course
+
+
